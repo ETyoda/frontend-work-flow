@@ -1,0 +1,13 @@
+table{
+    width:70%;
+    border-collapse:collapse; 
+     
+}
+th,td{
+    border-bottom:1px solid; 
+    text-align:center ;
+    vertical-align: bottom;
+}
+th{
+    background-color: #f2f2f2;
+}

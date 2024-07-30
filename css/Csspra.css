@@ -1,0 +1,23 @@
+.title{
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: bold;
+    color: white;
+    text-decoration: underline ;
+}
+body{
+    background-color: cadetblue;
+}
+.title {
+    text-align: center;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    line-height: 2;
+   ;
+}
+ul{
+    display: flex;
+    justify-content:space-evenly;
+    list-style-type:none ;
+}

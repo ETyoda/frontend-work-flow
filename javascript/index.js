@@ -1,2 +1,3 @@
-console.log("hello World")
-alert('Click to Complete')
+// Ecamine the socumenr object
+// console.dir(document);
+//  

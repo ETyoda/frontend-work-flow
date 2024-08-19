@@ -21,10 +21,14 @@
 
 // QuerySelector
 
-var header =document.querySelector('#txt');
-header.style.borderBottom = 'solid 4px #ccc';
+// var header =document.querySelector('#txt');
+// header.style.borderBottom = 'solid 4px #ccc';
 
 // QuerySelectorAll
-var titles = document.querySelectorAll('.txt-1')
+var titles = document.querySelectorAll('.txt-1');
 
-
+// Traversing the dom
+// .parentNode
+console.log(titles.children)
+//  .parentElement
+// chldrenNOde
